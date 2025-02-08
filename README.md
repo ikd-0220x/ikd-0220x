@@ -7,7 +7,7 @@
 ### 📌 About Me
 
 - 🔥 Passionate about backend development & scalable systems
-- 💡 Experienced in PHP, Laravel, MySQL, Redis, GraphQL, and REST APIs
+- 💡 Experienced in PHP, Laravel, MySQL
 - 🚀 Always learning new technologies to improve my skills
 - 💬 Ask me about anything related to backend development
 
